@@ -1,0 +1,9 @@
+Task 0 	Complexity O(1)
+
+Task 1 	Complexity O(n)
+
+Task 2 	Complexity O(n)
+
+Task 3 	Complexity O(n log n)
+
+Task 4 	Complexity O(n log n))
