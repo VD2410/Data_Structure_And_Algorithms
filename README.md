@@ -1,7 +1,7 @@
 # Data_Structure_And_Algorithms
 Udacity Nanodegree
 
-![](./DSND.png)
+![](./DSND.jpg)
 
 ## 1 Basic Python 
 ## 2 Basic Datastructure
